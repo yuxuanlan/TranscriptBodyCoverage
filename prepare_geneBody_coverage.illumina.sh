@@ -29,7 +29,6 @@ fi
 # ==== 3. make CDS only bed file for each transcript range ====
 if true; then
     # 3.1: make CDS only gff3
-    # genecode v39 annotation used by pacbio smrtlink
     gff3=$symlink_dir/gencode.v39.annotation.coding.gff3
     # take off exon entries, AND REMOVE COLUMN 8 NUMBER WITH .
     awk '$3!~/exon/' $gff3 |awk -v OFS="\t" '{if ($3=="CDS"){$8="."} print $0 }'| sed -r 's/\sCDS\s/\texon\t/' > $analysis_dir/output/gencode.v39.annotation.coding.CDS.gff3
