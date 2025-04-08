@@ -1,21 +1,0 @@
-During startup - Warning messages:
-1: Setting LC_CTYPE failed, using "C" 
-2: Setting LC_COLLATE failed, using "C" 
-3: Setting LC_TIME failed, using "C" 
-4: Setting LC_MESSAGES failed, using "C" 
-5: Setting LC_MONETARY failed, using "C" 
-6: Setting LC_PAPER failed, using "C" 
-7: Setting LC_MEASUREMENT failed, using "C" 
-null device 
-          1 
-@ 2025-04-08 08:27:13: Read BED file (reference gene model) ...
-@ 2025-04-08 08:27:15: Total 9441 transcripts loaded
-@ 2025-04-08 08:27:15: Get BAM file(s) ...
-	/ei/projects/f/f4e517e2-faa5-488e-82ef-66c09af5aff9/data/results/PBMC_MASseq_YL/nf-single_tx_geneBodyCoverage/paper_scripts//illumina_sample1B/full_test_version/v1/output/illumina_sample1B.possorted_genome_bam.correctedBC_xf25.bam
-@ 2025-04-08 08:27:15: Processing illumina_sample1B.possorted_genome_bam.correctedBC_xf25.bam ...
-	100 transcripts finished 	200 transcripts finished 	300 transcripts finished 	400 transcripts finished 	500 transcripts finished 	600 transcripts finished 	700 transcripts finished 	800 transcripts finished 	900 transcripts finished 	1000 transcripts finished 	1100 transcripts finished 	1200 transcripts finished 	1300 transcripts finished 	1400 transcripts finished 	1500 transcripts finished 	1600 transcripts finished 	1700 transcripts finished 	1800 transcripts finished 	1900 transcripts finished 	2000 transcripts finished 	2100 transcripts finished 	2200 transcripts finished 	2300 transcripts finished 	2400 transcripts finished 	2500 transcripts finished 	2600 transcripts finished 	2700 transcripts finished 	2800 transcripts finished 	2900 transcripts finished 	3000 transcripts finished 	3100 transcripts finished 	3200 transcripts finished 	3300 transcripts finished 	3400 transcripts finished 	3500 transcripts finished 	3600 transcripts finished 	3700 transcripts finished 	3800 transcripts finished 	3900 transcripts finished 	4000 transcripts finished 	4100 transcripts finished 	4200 transcripts finished 	4300 transcripts finished 	4400 transcripts finished 	4500 transcripts finished 	4600 transcripts finished 	4700 transcripts finished 	4800 transcripts finished 	4900 transcripts finished 	5000 transcripts finished 	5100 transcripts finished 	5200 transcripts finished 	5300 transcripts finished 	5400 transcripts finished 	5500 transcripts finished 	5600 transcripts finished 	5700 transcripts finished 	5800 transcripts finished 	5900 transcripts finished 	6000 transcripts finished 	6100 transcripts finished 	6200 transcripts finished 	6300 transcripts finished 	6400 transcripts finished 	6500 transcripts finished 	6600 transcripts finished 	6700 transcripts finished 	6800 transcripts finished 	6900 transcripts finished 	7000 transcripts finished 	7100 transcripts finished 	7200 transcripts finished 	7300 transcripts finished 	7400 transcripts finished 	7500 transcripts finished 	7600 transcripts finished 	7700 transcripts finished 	7800 transcripts finished 	7900 transcripts finished 	8000 transcripts finished 	8100 transcripts finished 	8200 transcripts finished 	8300 transcripts finished 	8400 transcripts finished 	8500 transcripts finished 	8600 transcripts finished 	8700 transcripts finished 	8800 transcripts finished 	8900 transcripts finished 	9000 transcripts finished 	9100 transcripts finished 	9200 transcripts finished 	9300 transcripts finished 	9400 transcripts finished 
-
-
-	Sample	Skewness
-	illumina_sample1B.possorted_genome_bam.correctedBC_xf25	3.234802382624056
-@ 2025-04-08 08:42:29: Running R script ...

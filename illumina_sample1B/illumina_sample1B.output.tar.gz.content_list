@@ -1,0 +1,25 @@
+output/
+├── geneBodyCoverage_output.0-500
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.curves.pdf
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.r
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.txt
+│   └── log.txt
+├── geneBodyCoverage_output.1001-2000
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.curves.pdf
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.r
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.txt
+│   └── log.txt
+├── geneBodyCoverage_output.501-1000
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.curves.pdf
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.r
+│   ├── illumina_sample1B.CDS_only.geneBodyCoverage.txt
+│   └── log.txt
+├── illumina_sample1B.correctedBC.list
+├── illumina_sample1B.possorted_genome_bam.correctedBC_xf25.bam.flagstat
+├── trans.0-500.sorted.bed
+├── trans.1001-2000.sorted.bed
+├── trans.2001-3000.sorted.bed
+├── trans.3001-1000000000.sorted.bed
+└── trans.501-1000.sorted.bed
+
+3 directories, 19 files
